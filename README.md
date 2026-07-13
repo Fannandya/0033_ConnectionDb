@@ -1,3 +1,6 @@
+Nama: Fannandya Sutan Sakti Pratama
+NIM: 20240140033
+
 # ConnectionDb
 
 Aplikasi Node.js untuk menghubungkan Express dengan PostgreSQL.
@@ -25,12 +28,11 @@ Aplikasi Node.js untuk menghubungkan Express dengan PostgreSQL.
 
 ## Endpoint
 
-| Method | Route | Deskripsi |
-|--------|-------|-----------|
+| Method | Route | Deskripsi                                 |
+| ------ | ----- | ----------------------------------------- |
 | GET    | `/`   | Mengambil semua data dari tabel `biodata` |
 
 ## Screenshot
 
 ![Hasil Endpoint](ss/ssHasilEndpoint.png)
 ![Hasil Endpoint](ss/postman.png)
-
